@@ -1,0 +1,73 @@
+
+body {
+    background: white;
+    
+    }
+
+h1 {
+    color: #0D5C87;
+    font-family: ROBOTO; 
+    font-size: 28px;
+    margin-top: 50px;
+   
+    }
+
+.section1{
+     text-align: center;
+          
+    }
+
+p{
+    text-align: center;
+    padding-left: 335px;
+    padding-right: 335px;
+}
+
+.parrafo1 {
+    color: #6E6E6E;
+    font-family: ROBOTO;
+    font-size: 22px;
+    
+}
+
+.section2 {
+    text-align: center;
+    background: url('lentes2.png') no-repeat center center fixed;
+    height: 100%;
+    
+  }
+
+  h2 {
+      color: #0D5C87;
+      font-family: ROBOTO;
+      font-size: 28px;
+      padding-top: 300;
+
+  }
+
+.btn{
+    border: 3px solid #0D5C87; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    /* background-color: #2e518b; color botón */
+    color:#0D5C87; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    /* text-transform: uppercase; capitalización texto */
+    font-family: ROBOTO; /*tipografía texto*/
+    border-radius: 25px; /*bordes redondos*/
+    /* opacity: 0; */
+}
+
+.btn:hover{
+    background-color: #ffffff;
+    transform: scale(1.5);
+    
+}
+
+.parrafo2{
+    text-justify:auto;
+    color: #6E6E6E;
+    font-family: ROBOTO;
+    font-size: 22px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
